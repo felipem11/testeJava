@@ -1,0 +1,5 @@
+com\itau\felipe\jersey\services\Client.class
+com\itau\felipe\spring\restservices\Greeting.class
+com\itau\felipe\spring\restservices\Application.class
+com\itau\felipe\spring\restservices\GreetingController.class
+com\itau\felipe\jersey\services\HelloJerseyService.class
