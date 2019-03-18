@@ -1,0 +1,12 @@
+Dicas Eclipse
+CRTL + M			-	Maximizar Classe
+ctrl + 1			-	Este atalho (apelidado de Quick Fix – rápida correção) 
+						Gerar getters e setters
+ctrl + 3			-	Quick Access
+Ctrl + Shift + R	-	Este atalho abre uma janela para busca por resources, arquivos que se encontrem no seu workspace.
+Ctrl + Shift + T	-	Este atalho habilita uma janela de busca de arquivos de código fonte, arquivos compiláveis, inclusive os que se encontram dentro dos jar’s usadas pela aplicação.
+Ctrl + Shift + F	-	Este atalho indenta o teu código, baseado nos templates definidos nas preferências da IDE. Se não existir nenhum template, o padrão do eclipse será utilizado.
+Ctrl + I			-	Organiza o código selecionado, com relação ao espaçamento do mesmo.
+Ctrl + Alt + Seta para baixo/cima	-	Faz uma cópia da seleção do código para cima ou para baixo. Simula o Ctrl + C/Ctrl + V sem o esforço deste mesmo atalho.
+Alt + Seta para cima/baixo			-	Transporta o código selecionado para cima ou para baixo uma linha.
+Escrever syso  e ctrl + espaço
